@@ -1,0 +1,15 @@
+{
+  "actions": [
+    {
+      "ts": 1596531872383,
+      "action": "INSTALL",
+      "user": "admin"
+    }
+  ],
+  "gitState": {
+    "enabled": true,
+    "repository": "https://github.com/dataiku/dataiku-contrib",
+    "path": "movies-apis",
+    "checkout": ""
+  }
+}
